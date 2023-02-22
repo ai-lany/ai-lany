@@ -11,6 +11,9 @@
 
 
 ## Experience
+
+📋 Software Engineer Intern @ LinkedIn 
+
 📋 Design Engineer Intern @ Uber 
 
 📋 Scrum Master for a year-long project at Florida International University
