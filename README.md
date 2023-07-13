@@ -7,10 +7,12 @@
 
 💻 Java, Python, JavaScript, Typescript, C, React.js, Node.js, Express, MongoDB, SQL, Flask
 
-🧠 Full-stack Software Development, Web Development, UI/UX Design, Cognitive Sciences
+🧠 Full-stack Software Development, Web Development, Mobile Development, Data Engineering, UI/UX Design, Cognitive Sciences
 
 
 ## Experience
+
+📋 Software Engineer Intern @ Square 
 
 📋 Software Engineer Intern @ LinkedIn 
 
@@ -21,6 +23,4 @@
 📋 Web Developer Intern at Florida International University
 
 
-## Currently Learning
 
-💻 React Native, SwiftUI, Database design
