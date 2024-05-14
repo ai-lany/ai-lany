@@ -1,6 +1,6 @@
 # Ailany Rodriguez
 
-👋 Hi, I'm Ailany from Miami, FL and I am currently studying Psychology and Computer Science at Florida International University. I'm passionate about creating beautiful and intuitive software and I am constantly pushing myself to learn new things. 
+👋 Hi, I'm Ailany. I'm a software engineer from Miami, FL with a Bachelor's in Psychology and Computer Science from Florida International University. I'm passionate about creating beautiful and intuitive software and I am constantly pushing myself to learn new things. 
 
 
 ## Skills
@@ -11,6 +11,8 @@
 
 
 ## Experience
+
+📋 Software Engineer @ UKG 
 
 📋 Software Engineer Intern @ Square 
 
