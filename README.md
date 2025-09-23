@@ -1,5 +1,5 @@
 # Ailany Rodriguez
-👋🏻 Hi, I'm Ailany, a software engineer based in Miami, FL. I enjoy building data-driven applications and creating software that is a joy to use.   
+👋🏻 Hi, I'm Ailany, a software engineer based in Miami, FL. I enjoy building data-driven applications and creating software that are a joy to use.   
 
 
 ## Experience
