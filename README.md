@@ -1,8 +1,6 @@
 # Ailany Rodriguez
 👋🏻 Hi, I'm Ailany, a software engineer based in Miami, FL. I enjoy building data-driven applications and creating software that is a joy to use.   
 
-💼 [LinkedIn](https://www.linkedin.com/in/ailany-rodriguez/)  
-
 
 ## Experience
 
@@ -20,5 +18,6 @@
 
 📋 Web Developer Intern at Florida International University
 
+💼 [LinkedIn](https://www.linkedin.com/in/ailany-rodriguez/)  
 
 
